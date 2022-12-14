@@ -42,7 +42,4 @@
 <a href="discordapp.com/users/272967964779872258">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-<a href="">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  </a>
 </p>
